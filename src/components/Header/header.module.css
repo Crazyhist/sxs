@@ -1,3 +1,6 @@
 .header {
-	@apply flex justify-between items-center bg-teal-500 px-5;
+}
+
+.header_row {
+	@apply flex justify-between items-center;
 }
